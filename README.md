@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Jekyll Boilerplate ##
 
 Jekyll is rad! It’s a simple, blog aware, static site generator built in Ruby. It takes a template directory, runs it through Textile or Markdown and Liquid converters, and spits out a complete, static website. Boom!
@@ -41,3 +42,9 @@ This is a simple blog post using markdown. To learn more about markdown check ou
 
 ### index.html ###
 This is used to render the site's index. It is essntially a post loop wrapped in your base layout.
+=======
+drawsgood-site
+==============
+
+My test jekyll site
+>>>>>>> gh-pages
